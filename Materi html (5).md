@@ -14,7 +14,7 @@
 ```
 
 ## hasil program
-![](../Aset/Screenshot_20240117-135709_Acode 1.jpg)
+![](aset/Screenshot_20240117-135709_Acode 1.jpg)
 
 ## penjelasan program
 - Tag<!DOCTYPE html> memberitahukan web browser bahawa dokumen **HTML** adalah versi 5.
@@ -47,10 +47,10 @@
 ```
 ## hasil program
 
-[](../Aset/Screenshot_20240117-144258_Acode.jpg)
-[](../Aset/Screenshot_20240124-092427_Acode.jpg)
-[](../Aset/Screenshot_20240117-144258_Acode.jpg)
-[](../Aset/Screenshot_20240124-092427_Acode.jpg)
+[](aset/Screenshot_20240117-144258_Acode.jpg)
+[](aset/Screenshot_20240124-092427_Acode.jpg)
+[](aset/Screenshot_20240117-144258_Acode.jpg)
+[](aset/Screenshot_20240124-092427_Acode.jpg)
 ## penjelasan
 - `<a href="https://www.instagram.com/">` merupakan tag pembuka.
 - `href` merupakan *nama atribut*.
@@ -129,7 +129,7 @@ Kode program:
 ```
 
 Hasil program:
-[](../Aset/Screenshot_20240124-110822_Acode.jpg)
+[](aset/Screenshot_20240124-110822_Acode.jpg)
 
 ## menambah komentar
 untuk membuat komentar yang tidak dapat di terlihat di browser dan hanya dapat di baca oleh programmer dengan cara contohnya seperti dibawah ini :
@@ -148,7 +148,7 @@ Kode program :
 ```
 
 ## hasil program:
-[](../Aset/Screenshot_20240124-111255_Acode.jpg)
+[](aset/Screenshot_20240124-111255_Acode.jpg)
 dengan menuliskan komentar dapat membantu program untuk mengingat hal hal penting dan dapat dituliskan tanpa terbaca di browser.
 
 ## multimedia
@@ -166,7 +166,7 @@ Kode program:
 </html>
 ```
 Hasil program:
-![](../Aset/Screenshot_20240124-125023_Acode.jpg)
+![](aset/Screenshot_20240124-125023_Acode.jpg)
 
 
 # menambahkan vidieo
@@ -186,7 +186,7 @@ Contoh program:
 menampilkan elemen `<video>` untuk memutar video. Video yang ditampilkan berasal dari path "/Aset/Kelass.mp4".
 
 Hasil program:
-[](../Aset/Screenshot_20240129-114941_Acode.jpg)
+[](aset/Screenshot_20240129-114941_Acode.jpg)
 
 # menambahkan audio
 
@@ -211,7 +211,7 @@ Contoh program:
 </html>
 ```
 Hasil program:
-[](../Aset/Screenshot_20240129-132441_Acode.jpg)
+[](aset/Screenshot_20240129-132441_Acode.jpg)
 
 Penjelasan:
 membuat halaman web dengan sebuah iframe. Iframe ini menampilkan konten dari situs web "``
@@ -268,8 +268,8 @@ Contoh program:
 ```
 
 Hasil program:
-[](../Aset/Screenshot_20240129-133923_Acode.jpg)
-[](../Aset/Screenshot_20240129-133923_Acode.jpg)
+[](aset/Screenshot_20240129-133923_Acode.jpg)
+[](aset/Screenshot_20240129-133923_Acode.jpg)
 
 Penjelasan:
 -  Mempunyai dua sel kolom yang digabungkan dengan atribut "rowspan". Sel pertama berisi "Nama" dan selanjutnya, "Asal Institusi" yang di-colspan menjadi dua kolom.

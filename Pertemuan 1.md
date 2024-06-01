@@ -35,4 +35,4 @@ Using namespace
 # file
 
 
-![gambar-1|122](../aset/Image.jpg)
+![gambar-1|122](aset/Image.jpg)
